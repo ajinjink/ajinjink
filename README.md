@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello World, I'm Jina Kim! 👩‍💻</h1>
 <p align="center">
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=ajinjink&show_icons=true&theme=highcontrast" height="165">
+<!--   <img align='center' src="https://github-readme-stats.vercel.app/api?username=ajinjink&show_icons=true&theme=highcontrast" height="165"> -->
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hansoyo">
 </p>
 <p align="center">
@@ -16,9 +16,12 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" /><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br>
   <img src="https://img.shields.io/badge/Processing-0096D6?style=for-the-badge&logo=processingfoundation&logoColor=white" alt="Processing" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
@@ -26,15 +29,15 @@
 
 <h2 align="center">📚 Currently Working On:</h2>
 <p align="center">
-  I'm developing a <strong>Food Map Project</strong> for HYU students to discover the best places<br> to eat around campus, share their experiences, and connect with fellow foodies!
+  <strong>dumb</strong> front end developer
+  FORIF study mentor for Node.js
 </p>
 
 <h2 align="center">🌟 Fun Facts:</h2>
 <ul>
-  <li>🎂 Born in 2002, I'm a proud Gen Z! </li>
-  <li>🌍 I love to travel and learn about new cultures. </li>
-  <li>📸 Photography is one of my favorite hobbies. </li>
-  <li>🎮 When I'm not coding, you can find me playing video games or binge-watching TV shows. </li>
+  <li>🦉 Total Night Owl </li>
+  <li>👩‍💻 Passionate about holding my streak on Beakjoon. </li>
+  <li>📱 When I'm not coding, you can find me binge-watching youtube. </li>
 </ul>
 
 <h2 align="center">📫 How to Reach Me:</h2>
