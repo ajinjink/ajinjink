@@ -29,7 +29,7 @@
 
 <h2 align="center">📚 Currently Working On:</h2>
 <p align="center">
-  <strong>dumb</strong> front end developer
+  <strong>dumb</strong> front end developer<br>
   FORIF study mentor for Node.js
 </p>
 
