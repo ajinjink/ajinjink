@@ -2,6 +2,7 @@
 <p align="center">
 <!--   <img align='center' src="https://github-readme-stats.vercel.app/api?username=ajinjink&show_icons=true&theme=highcontrast" height="165"> -->
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hansoyo">
+  <img align='center' src="http://mazandi.herokuapp.com/api?handle=hansoyo&theme=cold">
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ajinjink&theme=vue&hide_border=true&locale=en&date_format=M%20j%5B%2C%20Y%5D" width = "600">
