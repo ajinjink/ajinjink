@@ -30,8 +30,8 @@
 
 <h2 align="center">📚 Currently Working On:</h2>
 <p align="center">
-  <strong>dumb</strong> front end developer<br>
-  FORIF study mentor for Node.js
+  SNU Explore CSR<br>
+  building front & backend for newsclipping
 </p>
 
 <h2 align="center">🌟 Fun Facts:</h2>
