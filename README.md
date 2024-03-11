@@ -30,15 +30,31 @@
 
 <h2 align="center">📚 Currently Working On:</h2>
 <p align="center">
-  SNU Explore CSR<br>
-  building front & backend for newsclipping
+  Intern at LG Electronics<br>
+  H&A Smart Control R&D Lab
 </p>
+
+<h2 align="center">📚 Previously Worked On:</h2>
+<ul>
+  <li>
+    <p>
+      <a href="https://newsclipping-csr.co.kr" target="_blank">SNU Explore CSR</a><br/>
+      React (frontend), Node.js (backend), MySQL (db), Python bs4 (crawling) - one-man project
+    </p>
+  </li>
+  <li>
+    <p>
+      <a href="https://github.com/LG-Cover/Cover-FE" target="_blank">LG COVER</a><br/>
+      React-Native (frontend), Node.js (backend), Matter with ESP32-S3 (embedded)
+    </p>
+  </li>
+</ul>
+
 
 <h2 align="center">🌟 Fun Facts:</h2>
 <ul>
   <li>🦉 Total Night Owl </li>
-  <li>👩‍💻 Passionate about holding my streak on Beakjoon. </li>
-  <li>📱 When I'm not coding, you can find me binge-watching youtube. </li>
+  <li>👩‍💻 Passionate about holding my streak on Beakjoon. <del>but failed</del> </li>
 </ul>
 
 <h2 align="center">📫 How to Reach Me:</h2>
