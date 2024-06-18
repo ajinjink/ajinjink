@@ -23,7 +23,7 @@
 ---
 <h3 align="center">Previous Projects</h3>
 <p align="center">
-  <a href="https://newsclipping-csr.co.kr" target="_blank">SNU Explore CSR</a><br/>
+  SNU Explore CSR<br/>
   React (frontend), Node.js (backend), MySQL (db), Python bs4 (crawling)
 </p>
 <p align="center">
@@ -36,7 +36,7 @@
 <p align="center">
   <a href="https://github.com/ajinjink" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:drjina02@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/%EC%A7%84%EC%95%84-%EA%B9%80-598a37259/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ajinjin-kim/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://velog.io/@ajinjin" target="_blank"><img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
 </p>
 <p align="center">
