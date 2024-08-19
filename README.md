@@ -15,13 +15,16 @@
 
 <h4 align="center">I'm Currently Working On:</h4>
 <p align="center">
-  Intern at LG Electronics<br>
-  H&A Smart Control R&D Lab
+  VT Intern at SAP Labs Korea
 </p>
 
 
 ---
-<h3 align="center">Previous Projects</h3>
+<h3 align="center">Previously:</h3>
+<p align="center">
+  Intern at LG Electronics<br>
+  H&A Smart Control R&D Lab
+</p>
 <p align="center">
   SNU Explore CSR<br/>
   React (frontend), Node.js (backend), MySQL (db), Python bs4 (crawling)
@@ -30,6 +33,7 @@
   <a href="https://github.com/LG-Cover/Cover-FE" target="_blank">LG COVER</a><br/>
   React-Native (frontend), Node.js (backend), Matter with ESP32-S3 (embedded)
 </p>
+
 
 ---
 <h3 align="center">📫 How to Reach Me:</h3>
