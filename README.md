@@ -52,7 +52,7 @@
 </div>
 
 <div>
-  <h3>👨‍💻 Frontend Developer @ CNC Study (Datalingo Team)</h3>
+  <h3>👨‍💻 Frontend Developer, DBA @ CNC Study (Datalingo Team)</h3>
   <p>
     Worked as a frontend developer for a website that displays student exam performance analysis.<br>
     <a href="https://www.cncscore.com/" target="_blank">
@@ -67,9 +67,17 @@
 ## 🏆 Awards
 
 <table>
+  <tr>
+   <td align="center">🥉</td>
+   <td><strong>3rd Place (Korea Meteorological Industry Technology Institute Director's Award)</strong> - Korea Meteorological Administration Weather Data Contest</td>
+ </tr>
  <tr>
    <td align="center">🥉</td>
    <td><strong>3rd Place (Chuncheon Mayor's Award)</strong> - Chuncheon Generative AI Competition</td>
+ </tr>
+  <tr>
+   <td align="center">🥇</td>
+   <td><strong>Merit Award</strong> - Hanyang University</td>
  </tr>
  <tr>
    <td align="center">🥇</td>
@@ -89,6 +97,21 @@
 
 ## 📄 Publications
 
+<details open>
+  <summary><strong>Interpretable Prediction of Private Brand Purchases by Pet Type in E-Commerce for Consumer Behavior Analysis Using Real-World Transaction Data</strong></summary>
+  <p>
+    <em>PeerJ Computer Science (Under Review), 2025</em><br>
+   Jaehyuk Lee*, Woojung Song*, <strong>Jina Kim</strong>, Eunchan Kim
+  </p>
+</details>
+
+<details open>
+  <summary><strong><a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12318724">The Impact of Code-Switching on LLM Response Quality: Focusing on Korean-Japanese</strong></summary>
+  <p>
+    <em>Korea Computer Congress, 2025</em><br>
+   Hoyeol Yang, <strong>Jina Kim</strong>, Jungbin Song
+  </p>
+</details>
 
 <details open>
   <summary><strong><a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12131510&googleIPSandBox=false&mark=0&minRead=10&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true">B. F. Sword: Blank inference system with optimized RAG and knowledge distillation</strong></summary>
