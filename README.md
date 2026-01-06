@@ -29,9 +29,16 @@
 ## 💼 Experience
 
 <div>
+  <h3>👨‍💻 Software Developer @ SK Hynix</h3>
+  <p>
+    <em>(2026.01 ~ Present)</em>
+  </p>
+</div>
+
+<div>
   <h3>👨‍💻 STAR Intern @ SAP Labs Korea HANA Core SQL Team</h3>
   <p>
-    <em>(2024.07 ~ Present)</em>
+    <em>(2024.07 ~ 2025.12)</em>
   </p>
 </div>
 
